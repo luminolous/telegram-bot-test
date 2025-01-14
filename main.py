@@ -2,7 +2,7 @@ from typing import Final
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes
 
-TOKEN = '7895999329:AAEXKb_jIaUIn1-BjMXU5mxTdwkepv2fQqU'
+TOKEN = 'Input_your_token_here'
 BOT_USERNAME: Final = '@octo_octopus_bot'
 
 # Commands
